@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nanagame/static/css/main.6dafe086.css",
-    "main.js": "/nanagame/static/js/main.05138529.js",
-    "static/js/787.ff8288d2.chunk.js": "/nanagame/static/js/787.ff8288d2.chunk.js",
-    "static/media/nana-bg1.png": "/nanagame/static/media/nana-bg1.75ef4f52b591a05b110a.png",
-    "static/media/gta5-game-over.gif": "/nanagame/static/media/gta5-game-over.e25d1c05fd45672e85b9.gif",
-    "static/media/game-bg.jpg": "/nanagame/static/media/game-bg.1b6af6f8bf4e909a7296.jpg",
-    "index.html": "/nanagame/index.html",
-    "main.6dafe086.css.map": "/nanagame/static/css/main.6dafe086.css.map",
-    "main.05138529.js.map": "/nanagame/static/js/main.05138529.js.map",
-    "787.ff8288d2.chunk.js.map": "/nanagame/static/js/787.ff8288d2.chunk.js.map"
+    "main.css": "/nanasgame/static/css/main.6dafe086.css",
+    "main.js": "/nanasgame/static/js/main.e9ce7315.js",
+    "static/js/787.ff8288d2.chunk.js": "/nanasgame/static/js/787.ff8288d2.chunk.js",
+    "static/media/nana-bg1.png": "/nanasgame/static/media/nana-bg1.75ef4f52b591a05b110a.png",
+    "static/media/gta5-game-over.gif": "/nanasgame/static/media/gta5-game-over.e25d1c05fd45672e85b9.gif",
+    "static/media/game-bg.jpg": "/nanasgame/static/media/game-bg.1b6af6f8bf4e909a7296.jpg",
+    "index.html": "/nanasgame/index.html",
+    "main.6dafe086.css.map": "/nanasgame/static/css/main.6dafe086.css.map",
+    "main.e9ce7315.js.map": "/nanasgame/static/js/main.e9ce7315.js.map",
+    "787.ff8288d2.chunk.js.map": "/nanasgame/static/js/787.ff8288d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dafe086.css",
-    "static/js/main.05138529.js"
+    "static/js/main.e9ce7315.js"
   ]
 }
