@@ -1,7 +1,7 @@
 {
   "name": "Nana's Game",
   "version": "0.1.0",
-  "homepage": "nanagame/",
+  "homepage": "https://fabiosoutto.github.io/nanasgame/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
