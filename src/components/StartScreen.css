@@ -1,0 +1,39 @@
+.start h1 {
+  font-size: 5em;
+  font-family: 'Dancing Script', cursive;
+  animation: lightsOn 2s infinite alternate;
+}
+
+@keyframes lightsOn {
+
+  from {
+    opacity: 0.1;
+  }
+
+  to {
+    opacity: 3;
+  }
+
+}
+
+.start p {
+  margin-bottom: 2em;
+  color: white;
+}
+
+.start h2 {
+  font-size: 3rem;
+}
+
+.start button {
+  margin-bottom: 12rem;
+}
+
+.start a {
+  color: white;
+  text-decoration: none;
+}
+
+.start a:hover {
+  color: gold;
+}

@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+
+.gameOver {
+  width: 40vw;
+  height: 50vh;
+}

@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Ubuntu';
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  color: white;
+}
+
+button {
+  background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%);
+  background-size: 200% auto;
+  font-family: 'Ubuntu', sans-serif;
+  color: rgb(255, 255, 255);
+  padding: 0px 45px;
+  border: 2px solid #B5FFFC;
+  border-radius: 25px;
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: .5s;
+  box-shadow: 0 0 20px #eee;
+}
+
+button:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+#root {
+  height: 100%;
+}

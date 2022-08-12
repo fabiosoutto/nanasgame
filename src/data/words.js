@@ -1,0 +1,15 @@
+export const wordsList = {
+  Carro: ["Motor", "Porta", "Janela", "Pneu", "Antena", "painel", "volante", "buzina", "tapete", "banco", "macaco", "placa", "farol"],
+  Fruta: ["Banana", "Abacaxi", "Bergamota", "abacate", "Laranja", "Tomate"],
+  Corpo: ["cotovelo", "Perna", "dedos", "Olhos", "joelho", "Costela"],
+  Computador: ["Mouse", "Teclado", "Monitor", "Gabinete"],
+  Novela: ["Diretor", "Atriz", "Figurino", "Duble", "Roteiro", "Autor"],
+  Alimento: ["Arroz", "amendoim", "milho", "Farinha", "aipim"],
+  Salão_de_Beleza: ["Toalha", "Tesoura", "Escova", "Pente", "Secador", "Navalha"],
+  Casa: ["Sala", "Cozinha", "Varanda", "quarto", "banheiro", "janela", "porta", "tapete", "Mesa", "cadeira", "estante", "abajur", "geladeira"],
+  Instrumento_musical: ["Teclado", "Violino", "Acordeon", "Piano", "Guitarra", "Baixo", "Bateria", "Pandeiro", "Tambor", "flauta", "trombone"],
+  Escola: ["Livros", "Professora", "Cantina", "Diretora", "alunos", "Monitor"],
+  Escritório: ["computador", "mesa", "cadeira", "xerox", "caneta", "papel"],
+  Esporte: ["Taekwondo", "baseball", "handeball", "ciclismo", "atletismo", "Hipismo", "karate", "basquete", "esgrima"],
+  Profissão: ["cobrador", "camareira", "gari", "porteiro", "atendente", "cozinheira", "padeiro", "florista", "coveiro", "motorista", "diarista"],
+};
